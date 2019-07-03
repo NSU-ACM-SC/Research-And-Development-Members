@@ -26,7 +26,7 @@ It is hosted **[here](https://nsu-acm-sc.github.io/Research-And-Development-Memb
         
         - Your contribution will be added later by the chapter officers as you progress, keep it as a - when applying.
         - Date format will be as DD MMM YYYY, example: 03 July 2019
-        - Select Membership status from ["Applied for Membership", "Current Member", "Past Member"]. Select "Applied for Membership" when applying.
+        - Select Membership status from ["Applied for Membership", "Current Member", "Past Member"]. Select "Current Member" when applying.
     
 
 ### Step 4
