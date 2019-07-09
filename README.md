@@ -26,7 +26,8 @@ It is hosted **[here](https://nsu-acm-sc.github.io/Research-And-Development-Memb
         
         - Your contribution will be added later by the chapter officers as you progress, keep it as a - when applying.
         - Date format will be as DD MMM YYYY, example: 03 July 2019
-        - Select Membership status from ["Applied for Membership", "Current Member", "Past Member"]. Select "Applied for Membership" when applying.
+        - Select Membership status from ["Applied for Membership", "Current Member", "Past Member"]. Select "Current Member" when applying.
+		- Add your github profile link and username like it's shown here: <td><a href="https://github.com/OmukTomukNotAnActualUserNam_e" target="_blank">OmukTomukNotAnActualUserNam_e</a></td>
     
 
 ### Step 4
@@ -56,7 +57,7 @@ New Entry: Omuk tomuk, 1234567890
 <tr>
 	<td>Omuk Tomuk</td>
 	<td>1234567890</td>
-	<td>OmukTomukNotAnActualUserNam_e</td>
+	<td><a href="https://github.com/OmukTomukNotAnActualUserNam_e" target="_blank">OmukTomukNotAnActualUserNam_e</a></td>
 	<td>Python</td>
 	<td>Data Science</td>
 	<td>-</td>
